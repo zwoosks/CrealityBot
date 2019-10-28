@@ -1,0 +1,5 @@
+This is your ticket#3 transcript with the last 2 messages.
+The messages are ordered from the newest to the oldest.
+
+[EXECUTIVE] zwoosks: -t close
+[EXECUTIVE] zwoosks: asd
